@@ -6,7 +6,7 @@ public class test123 {
 	System.out.println(" I ma in git hub");
 	System.out.println("Aded a new code to the  repository");
 	//Changed the comment
-	
+	System.out.println("Changed the datatype for Cross browser testing");
 	}
 
 }
