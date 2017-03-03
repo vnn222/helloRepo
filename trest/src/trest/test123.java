@@ -7,6 +7,10 @@ public class test123 {
 	System.out.println("Aded a new code to the  repository");
 	//Changed the comment
 	System.out.println("Changed the datatype for Cross browser testing");
+	
+	System.out.println("I am in main method");
+	//changed the code
+	
 	}
 
 }
