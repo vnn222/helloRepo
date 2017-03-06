@@ -8,10 +8,7 @@ public class test123 {
 	//Changed the comment
 	System.out.println("Changed the datatype for Cross browser testing");
 	
-	System.out.println("I am in main method");
-	//changed the code
-	//added a new comment to the code
-	System.out.println("want to do a lot in life");
+	
 	
 	}
 
